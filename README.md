@@ -1,7 +1,8 @@
 # Weather App
 
 ## Deployment
-https://weather-app-flax-psi-10.vercel.app/
+
+https://weather-app-private-five.vercel.app/
 
 ## Description
 
